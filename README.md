@@ -13,6 +13,8 @@ Bookmark everywhere
 
 5. CPI: https://github.com/bachpx195/the_big_trade/issues/39
 
+6. Fed Interest Rate: https://github.com/bachpx195/the_big_trade/issues/46
+
 ### PTKT
 
-6. Các mẫu hình: https://github.com/bachpx195/the_big_trade/issues/45
+7. Các mẫu hình: https://github.com/bachpx195/the_big_trade/issues/45
