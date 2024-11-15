@@ -18,3 +18,6 @@ Bookmark everywhere
 ### PTKT
 
 7. Các mẫu hình: https://github.com/bachpx195/the_big_trade/issues/45
+
+### Great repo
+https://github.com/ranaroussi
