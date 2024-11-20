@@ -21,3 +21,6 @@ Bookmark everywhere
 
 ### Great repo
 https://github.com/ranaroussi
+
+### X
+Người có cùng tần số: https://x.com/hanztrinh
