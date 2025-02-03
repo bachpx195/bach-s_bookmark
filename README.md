@@ -19,6 +19,10 @@ Bookmark everywhere
 
 7. Các mẫu hình: https://github.com/bachpx195/the_big_trade/issues/45
 
+### Web
+Crypto liquidation heatmap: https://www.coinglass.com/LiquidationData
+Crypto bubble https://cryptobubbles.net/
+
 ### Great repo
 https://github.com/ranaroussi
 
