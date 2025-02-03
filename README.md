@@ -21,7 +21,10 @@ Bookmark everywhere
 
 ### Web
 Crypto liquidation heatmap: https://www.coinglass.com/LiquidationData
+
 Crypto bubble https://cryptobubbles.net/
+
+Crypto rank https://coinmarketcap.com/
 
 ### Great repo
 https://github.com/ranaroussi
