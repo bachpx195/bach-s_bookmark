@@ -26,6 +26,8 @@ Crypto bubble https://cryptobubbles.net/
 
 Crypto rank https://coinmarketcap.com/
 
+Crypto data (Nghiên cứu cách sử dụng...) https://intel.arkm.com/marketdata
+
 ### Great repo
 https://github.com/ranaroussi
 
